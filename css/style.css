@@ -10,7 +10,7 @@ html {
 body {
     min-height: 400px;
     max-width: 500px;
-    background: rgba(69,90,100,0.9);
+    background:gray;
     margin: 50px auto;
     color: white;
     font-family: Arial, sans-serif;

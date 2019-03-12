@@ -13,7 +13,7 @@ let body = $("body");
           body.append(p);
 
           let li1 = $('<li>');
-          let span1 = $('<span>').text(object.weather[0].description);
+          let span1 = $('<span>').text("Sky : "  +object.weather[0].description );
           li1.append(span1);
           ul.append(li1);
 

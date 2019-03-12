@@ -1,0 +1,35 @@
+@media(max-width: 965px){
+    html {
+        background-image: none;
+        background-color: gray;
+    }
+    body {
+      background-image: url("../img/ODR9GY0.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+    ul{
+      background-color: rgba(211,211,211,0.7);
+    }
+  
+    h1{
+    color:black;
+    text-shadow: 0 0 7px white;
+    font-weight: 500;
+    }
+    p{
+      color: black;
+      text-shadow: 0 0 7px white;
+      font-weight: 500;
+    }
+    p:last-child{
+      color:white;
+      text-shadow: 0 0 7px black;
+      font-weight: 300;
+    }
+    .temp{
+      color: black;
+      text-shadow: 0 0 7px white;
+      font-weight: 500;
+    }
+  }

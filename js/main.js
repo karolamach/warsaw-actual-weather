@@ -5,7 +5,7 @@ $(document).ready(function() {
     let icon = $(".icon");
 
     
-    let weatherUrl = "http://api.openweathermap.org/data/2.5/weather?q=Warszawa&APPID=e066f50227d64e3af0e4296523d85c5a";
+    let weatherUrl = "https://api.openweathermap.org/data/2.5/weather?q=Warszawa&APPID=e066f50227d64e3af0e4296523d85c5a";
 
     function instertWeather(object) {
          

@@ -1,6 +1,6 @@
-$(function() {
+$(document).ready(function() {
     let ul = $("#weather");
-let body = $("body");
+    let body = $("body");
     let temp = $(".temp");
     let icon = $(".icon");
 

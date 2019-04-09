@@ -14,20 +14,21 @@ body {
     background:gray;
     margin: 50px auto;
     color: white;
-    font-family: Arial, sans-serif;
+    font-family: Arial, cursive;
     border-radius: 20px;
-    font-family: 'Oswald', sans-serif;
     padding-top: 8px;
 }
 
-h1,p{
+h1{
   text-align: center;
-  font-weight: 200;
+  font-weight: 600;
 }
 p{
   font-size: 24px;
   padding: 0;
   margin: 0;
+  text-align: center;
+  font-weight: 200;
 }
 .temp{
   display: flex;
